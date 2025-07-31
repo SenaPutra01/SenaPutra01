@@ -2,7 +2,7 @@
 
 # 🌟 Sena Putra
 
-### 💻 Software Engineer × 🌐 Web Developer × 🎨 Digital Creator
+### 💻 Software Engineer × 🌐 Web Developer
 
 *Building the future through clean code and creative solutions*
 
