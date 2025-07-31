@@ -12,12 +12,11 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stach
 
 <div align="center">
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -59,52 +58,35 @@
 
 ---
 
-## 🎯 Current Focus
+## 🌟 Professional Focus Areas
 
 <div align="center">
 
-| 🔥 **Currently Working On** | 🎓 **Learning** | 🎯 **Goals 2025** |
-|:---|:---|:---|
-| Fullstack Web Applications | TypeScript & Laravel | Build 3 production-ready apps |
-| RESTful API Integration | CI/CD with GitHub Actions | Speak at dev meetups |
-| Clean Code Architecture | Cloud Functions | Contribute to open source |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SenaPutra01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
-
-</div>
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senaputra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_3d_art_page)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/senaputra01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://senaputra01.github.io)
-
-### 💌 Let's Build Something Amazing Together!
-
-*"Code is not just syntax, it's a story waiting to be told."*
-
-**📧 Email:** [your.email@example.com](mailto:your.email@example.com)  
-**🌍 Location:** Available for remote collaboration worldwide
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=SenaPutra01&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
-</div>
+```mermaid
+mindmap
+  root((Sena Putra))
+    Software Development
+      Web Development
+        Frontend (HTML, CSS, JS)
+        Backend (PHP, Java, Node.js)
+        Fullstack Integration
+      API Development
+        RESTful APIs
+        Authentication (JWT, OAuth)
+        Third-Party Integration
+      Mobile Optimization
+    Programming Skills
+      Python Scripting
+      Java Core
+      JavaScript DOM
+      Laravel & PHP
+    DevOps & Tools
+      Git & GitHub
+      Docker
+      CI/CD Workflow
+      Linux Environments
+    Career Growth
+      Open Source Contribution
+      Portfolio Building
+      Tech Conferences
+      Remote Collaboration
