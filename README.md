@@ -53,9 +53,9 @@
 
 ### 🏆 GitHub Trophies
 <!-- Replace Trophy with Stats/Streak -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenaPutra01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenaPutra01&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SenaPutra01&theme=tokyonight)
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SenaPutra01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 
 
 
