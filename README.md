@@ -54,11 +54,9 @@
 ### 🏆 GitHub Trophies
 <!-- Replace Trophy with Stats/Streak -->
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SenaPutra01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-
-
-
+![Commits Badge](https://img.shields.io/badge/Commits-Over%201000-blue)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SenaPutra01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)?
 
