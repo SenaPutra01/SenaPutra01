@@ -52,8 +52,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SenaPutra01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 ### 🏆 GitHub Trophies
-<!-- Replace Trophy with Stats/Streak -->
-### 🏆 GitHub Trophies
 ![Commits Badge](https://img.shields.io/badge/Commits-Over%201000-blue)
 ![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active-green)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet)
