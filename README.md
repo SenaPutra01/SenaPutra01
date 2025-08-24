@@ -52,7 +52,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SenaPutra01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SenaPutra01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+<!-- Replace Trophy with Stats/Streak -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenaPutra01&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SenaPutra01&theme=tokyonight)
+
+
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SenaPutra01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)?
 
 </div>
